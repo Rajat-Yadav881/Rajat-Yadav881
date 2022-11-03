@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my PortFolio are available at https://rajat-yadav881.github.io
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1SDZjl_22l2yumrNhf56aCXm1jLmih9v8/view?usp=sharing
+- 📄 Know about my Resume https://drive.google.com/file/d/1yJPMXw2cO7dqCdr4D45f--7jcA_sWdwa/view?usp=sharing
 
 - ⚡ Fun fact **I am entertainer personality type person**
 - 🤔 I’m looking for help with ...
