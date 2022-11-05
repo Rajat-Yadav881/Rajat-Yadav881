@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **SpringBoot**
 
 - 👨‍💻 All of my PortFolio are available at https://rajat-yadav881.github.io
-- 📄 Know about my experiences **[Resume]([https://drive.google.com/file/d/1kIrqC-2FxujRVX7pQTHcL60oo8oWPGNT/view](https://drive.google.com/file/d/1yJPMXw2cO7dqCdr4D45f--7jcA_sWdwa/view?usp=sharing) )**
+- 📄 Know about my experiences **[Resume]([https://drive.google.com/file/d/1kIrqC-2FxujRVX7pQTHcL60oo8oWPGNT/view] )**
 
 - ⚡ Fun fact **I am entertainer personality type person**
 - 🤔 I’m looking for help with ...
