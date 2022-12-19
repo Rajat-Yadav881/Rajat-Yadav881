@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Banking Mangment System**
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 I’m currently learning **AWS cloud**
 - Hacker Rank **[HackerRank](https://www.hackerrank.com/yyrajat881)**
 
 - 👨‍💻 All of my PortFolio are available at **[Portfolio](https://rajat-yadav881.github.io)** 
