@@ -10,6 +10,7 @@
 
 - 🌱 I’m currently learning **AWS cloud**
 - Hacker Rank **[HackerRank](https://www.hackerrank.com/yyrajat881)**
+[![LeetCode Logo](https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg)](https://leetcode.com/Rajat_Yadav/)
 
 - 👨‍💻 All of my PortFolio are available at **[Portfolio](https://rajat-yadav881.github.io)** 
 - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1FH0e9hUYEWpfNUwDpYj1N8Ql7I7G68Jq/view?usp=sharing)**
