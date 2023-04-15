@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajat-yadav881&label=Profile%20views&color=0e75b6&style=flat" alt="rajat-yadav881" /> </p>
 
-- 🔭 I’m currently working on **Banking Mangment System**
+- 🔭 I’m currently working on **Blog Application RESTapi**
 
 - 🌱 I’m currently learning **AWS cloud**
 - Hacker Rank [<img src="https://www.hackerrank.com/wp-content/uploads/2022/03/hackerrank_logo_dark.svg" alt="HackerRank Logo" width="200" height="50">](https://www.hackerrank.com/yyrajat881)
