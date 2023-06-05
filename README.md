@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajat-yadav881&label=Profile%20views&color=0e75b6&style=flat" alt="rajat-yadav881" /> </p>
 
 - 🔭 I’m currently working on **Blog Application RESTapi**
-
+<a href="https://app.daily.dev/rajatkumaryadav"><img src="https://api.daily.dev/devcards/d3e00fd600b343d392d4dc959cc11dc1.png?r=6fe" width="400" alt="Rajat Kumar Yadav's Dev Card"/></a>
 - 🌱 I’m currently learning **AWS cloud**
 - Hacker Rank [<img src="https://www.hackerrank.com/wp-content/uploads/2022/03/hackerrank_logo_dark.svg" alt="HackerRank Logo" width="200" height="50">](https://www.hackerrank.com/yyrajat881)
 
